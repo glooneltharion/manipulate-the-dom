@@ -1,0 +1,27 @@
+h1 {
+    color: #f86641;
+  }
+  
+  h2, h3 {
+    color: #7937d7;
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
+  ol {
+    list-style-type: upper-roman;
+  }
+  
+  li {
+    margin: 2px 0;
+  }
+  
+  ol li {
+    text-decoration: underline;
+  }
+  
+  .pink {
+    color: #ff5aff;
+  }
